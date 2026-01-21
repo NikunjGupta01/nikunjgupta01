@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nikunj Gupta
 
-💻 Full-Stack Developer  
+💻 **Software Engineering Graduate (2025)**  
 📍 Ranchi, Jharkhand, India  
 📧 nkng9835@gmail.com  
 🔗 https://linkedin.com/in/nikunj-gupta-150422317  
@@ -8,102 +8,100 @@
 ---
 
 ## 🚀 About Me
-I’m a **Full-Stack Developer** with hands-on experience building **production-grade web and mobile applications** using **Laravel, Flutter, Vue, React, and Python**.
 
-I enjoy working across the full engineering lifecycle — from **architecture and development to deployment and optimization** — with a strong focus on **performance, security, and scalability**.
+I’m a **Computer Science graduate (2025)** with hands-on experience building **web and mobile applications** using **Python, JavaScript, React, Vue, Laravel, and Flutter**.
+
+I enjoy learning and working across the software development lifecycle — from **building features and APIs** to **containerized development and CI/CD basics** — with a strong interest in **open-source technologies, Linux systems, and automation**.
+
+I’m currently seeking an **entry-level / trainee software engineering role** where I can grow under mentorship and contribute to real-world systems.
 
 ---
 
 ## 🧑‍💼 Experience
 
-### Full-Stack Developer Apprentice  
+### Graduate Software Engineer (Informal / Contract)  
 **Cryptonix Labs** | Mar 2023 – Aug 2025  
 
-- Led **full-stack development and DevOps delivery** for production applications with **99% uptime**
-- Improved application performance and reduced deployment time by optimizing:
-  - Docker environments
-  - Nginx configurations
-  - Git workflows
-- Collaborated closely with teams to deliver scalable and secure solutions
+- Contributed to full-stack development of web and mobile applications  
+- Assisted in developing backend services and REST APIs using Python and Laravel  
+- Built frontend features using React and Vue  
+- Worked with Docker-based development environments and learned CI/CD fundamentals  
+- Participated in debugging, testing, and improving application reliability  
+- Collaborated with mentors and clients to understand requirements and iterate on solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- Flutter, Vue.js, React
-- HTML, CSS, JavaScript, TypeScript
-- Tailwind CSS
-
-**Backend**
-- Laravel (PHP)
-- Python
-- REST APIs
+**Programming & Frameworks**
+- Python, JavaScript, TypeScript  
+- React, Vue.js, Flutter  
+- Laravel  
 
 **Databases**
-- MySQL, PostgreSQL
-- SQLite, Firebase
+- PostgreSQL, MySQL  
+- SQLite, Firebase  
 
 **DevOps & Tools**
-- Docker
-- Nginx
-- Git & GitHub
-- Linux
-- API Gateways & Payment Integrations
+- Linux fundamentals  
+- Docker  
+- Git & GitHub  
+- Nginx  
+- CI/CD (basic exposure)  
+
+**Concepts**
+- REST APIs  
+- Debugging & testing  
+- Agile basics  
 
 ---
 
 ## 📦 Projects
 
-### 🏫 School & Fee Management System
+### 🏫 School & Fee Management System  
 **Government School, Ranchi**
 
-- Streamlined academic and payment workflows for **5,000+ students & staff**
-- Built an **in-house student ID automation system**, eliminating third-party vendor costs
-- Reduced administrative workload through automation
+- Built a web-based system to manage academic records and fee workflows  
+- Automated routine academic and payment processes to improve operational efficiency  
+- Gained hands-on experience with backend development, databases, and Linux-based deployment  
 
 ---
 
-### 📊 Custom CRM SaaS Platform
-- Designed and built a **modular CRM SaaS** used by **5,000+ operational users**
-- Integrated courier APIs:
-  - Ecom Express
-  - Delhivery
-  - XpressBees
-- Implemented:
-  - Advanced role & permission management
-  - IP restrictions
-  - Secure API-based data synchronization
-- Delivered scalable, client-specific features
+### 📊 Digital e-Paper Publishing Platform (SaaS Project)
+
+- Developed a web platform for managing and publishing digital newspaper PDFs  
+- Built a React-based frontend enabling page-by-page reading, zooming, cropping, and sharing  
+- Implemented dynamic metadata and SEO-friendly routing for digital editions  
+- Integrated advertisement placement to learn ad-based content delivery workflows  
+- Strengthened understanding of frontend performance and API-driven systems  
 
 ---
 
-### 📱 KaramDarshan (Astrology & Palmistry App)
-- Flutter-based mobile application
-- Published on **Google Play Store** with **1,000+ active installs**
-- Integrated **Razorpay** for subscription-based monetization
-- Built backend for:
-  - User data management
-  - Media uploads
-  - Subscription lifecycle
+### 📱 KaramDarshan – Mobile Application
+
+- Developed a Flutter-based Android application focused on user convenience  
+- Integrated Razorpay for subscription-based payments  
+- Built backend services for user data, uploads, and subscription lifecycle management  
+- Learned end-to-end mobile–backend integration and authentication workflows  
 
 ---
 
-## 🏆 Key Achievements
-- Delivered **3 production-grade software products** before graduation
-- Improved lead conversion pipelines via **CRM automation**
-- Proven ability to manage projects **end-to-end**:
-  - Architecture → Development → Deployment → Analytics
+## 🏆 Highlights
+
+- Built and worked on multiple real-world projects alongside academic studies  
+- Gained practical exposure to backend development, databases, containers, and deployments  
+- Strong interest in open-source culture, automation, and cloud-native technologies  
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Science (BCS)**  
+**Bachelor of Computer Science**  
 Marwari College, Ranchi | 2022 – 2025  
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: nkng9835@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/nikunj-gupta-150422317
+
+- 📧 Email: nkng9835@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/nikunj-gupta-150422317  
